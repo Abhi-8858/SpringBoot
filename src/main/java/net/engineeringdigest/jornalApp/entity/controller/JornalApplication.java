@@ -9,5 +9,7 @@ public class JornalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JornalApplication.class, args);
 	}
+	sout
+
 
 }
